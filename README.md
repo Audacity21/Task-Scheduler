@@ -3,7 +3,7 @@
 
 1. Install Java: You should setup java environment with build utils to complete this task.
 
-2. You are expected to write the code in `Task.java` file.
+2. The code is written in `Task.java` file.
 
 3. You should be able to build the app by running `make task`.
 
